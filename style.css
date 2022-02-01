@@ -93,7 +93,7 @@ a:hover {
 .texture-paper::before {
     background-image: repeating-linear-gradient(147deg, hsla(199,0%,94%,0.12) 0px, hsla(199,0%,94%,0.12) 2px,transparent 2px, transparent 5px,hsla(199,0%,94%,0.12) 5px, hsla(199,0%,94%,0.12) 7px,transparent 7px, transparent 9px,hsla(199,0%,94%,0.12) 9px, hsla(199,0%,94%,0.12) 11px),repeating-linear-gradient(322deg, hsla(199,0%,94%,0.12) 0px, hsla(199,0%,94%,0.12) 2px,transparent 2px, transparent 5px,hsla(199,0%,94%,0.12) 5px, hsla(199,0%,94%,0.12) 7px,transparent 7px, transparent 14px,hsla(199,0%,94%,0.12) 14px, hsla(199,0%,94%,0.12) 16px),repeating-linear-gradient(0deg, hsla(199,0%,94%,0.15) 0px, hsla(199,0%,94%,0.15) 0px,transparent 0px, transparent 1px,hsla(199,0%,94%,0.15) 1px, hsla(199,0%,94%,0.15) 4px,transparent 4px, transparent 5px,hsla(199,0%,94%,0.15) 5px, hsla(199,0%,94%,0.15) 8px),repeating-linear-gradient(90deg, hsla(199,0%,94%,0.15) 0px, hsla(199,0%,94%,0.15) 0px,transparent 0px, transparent 1px,hsla(199,0%,94%,0.15) 1px, hsla(199,0%,94%,0.15) 4px,transparent 4px, transparent 5px,hsla(199,0%,94%,0.15) 5px, hsla(199,0%,94%,0.15) 8px),linear-gradient(90deg, rgb(170,170,170),rgb(170,170,170));
     background-size: auto;
-    opacity: 0.4;
+    opacity: 0.3;
 }
 
 .b-parallax {
